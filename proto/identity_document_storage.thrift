@@ -1,6 +1,6 @@
 include "base.thrift"
 
-namespace java com.rbkmoney.damsel.identdocstore
+namespace java com.rbkmoney.identdocstore.identity_document_storage
 namespace erlang identdocstore
 
 /**

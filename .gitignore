@@ -1,6 +1,7 @@
 /_build/
 *~
 .tags*
+.idea
 *.sublime-workspace
 .DS_Store
 *~
