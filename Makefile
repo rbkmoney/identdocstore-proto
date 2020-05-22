@@ -10,7 +10,7 @@ TEMPLATES_PATH := .
 SERVICE_NAME := identdocstore-proto
 
 # Build image tag to be used
-BUILD_IMAGE_TAG := 55e987e74e9457191a5b4a7c5dc9e3838ae82d2b
+BUILD_IMAGE_TAG := 07d3946f8f005782697de20270ac58cdcd18b011
 CALL_ANYWHERE := \
 	all submodules compile clean distclean \
 	java_compile java_deploy deploy_nexus deploy_epic_nexus java_install
